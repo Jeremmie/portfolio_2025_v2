@@ -1,0 +1,17 @@
+.grid_system {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(6, 2fr);
+    height: 100vh;
+}
+
+.grid_item {
+    background-color: red;
+
+}
+
+.item1 {
+    grid-column: 1/1;
+    grid-row: 1/1;
+
+}
