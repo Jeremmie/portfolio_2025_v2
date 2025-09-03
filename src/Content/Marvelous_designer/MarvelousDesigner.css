@@ -1,0 +1,34 @@
+.MD_container_2 {
+    background-color: red;
+    display: flex;
+}
+
+.MD_paysage_img {
+    width: 100%;
+    height: auto;
+}
+
+.MD_container_3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.MD_container_3 img {
+    height: 30vh;
+    width: auto;
+}
+
+.MD_container_4 {
+    height: 60vh;
+    width: auto;
+}
+
+.MD_container {
+    display: flex;
+    gap: 10px;
+
+}
+
+.MD_container_5 h1 {
+    font-size: 5rem;
+}

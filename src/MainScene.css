@@ -31,20 +31,3 @@ h1 {
     line-height: 100%;
     width: 19rem;
 }
-
-#Numa {
-    line-height: 70%;
-}
-
-li {
-    font-size: small;
-    list-style: none;
-    line-height: 150%;
-}
-
-#logo1 {
-    position: relative;
-    left: -410px;
-    bottom: 670px;
-    z-index: -1;
-}
